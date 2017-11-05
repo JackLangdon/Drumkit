@@ -37,7 +37,7 @@ body {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffe4ba;
+  border: .4rem solid #ffe4ba !important;
   box-shadow: 0 0 1rem #ffe4ba;
 }
 
